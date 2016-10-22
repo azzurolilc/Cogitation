@@ -109,7 +109,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/dingwang/Desktop/Cogitation/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/lil/Documents/workspace/Unity/Cogitation/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
