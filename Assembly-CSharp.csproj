@@ -47,7 +47,6 @@
   <ItemGroup>
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDebugInfo.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDemoManager.cs" />
-     <Compile Include="Assets\GoogleVR\DemoScenes\HeadsetDemo\Teleport.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\GvrHead.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\GvrCameraUtils.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\GvrEye.cs" />
@@ -93,6 +92,7 @@
      <Compile Include="Assets\Scripts\Subjects\common\AnswerButton.cs" />
      <Compile Include="Assets\Scripts\Subjects\common\ButtonGroup.cs" />
      <Compile Include="Assets\Scripts\Subjects\common\ScoreSystem.cs" />
+     <Compile Include="Assets\Scripts\Subjects\common\Teleport.cs" />
      <Compile Include="Assets\Scripts\Subjects\common\UserSelected.cs" />
      <Compile Include="Assets\Scripts\Subjects\english\english.cs" />
      <Compile Include="Assets\Scripts\Subjects\geography\geography.cs" />
