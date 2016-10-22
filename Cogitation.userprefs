@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Subjects/common/UserSelected.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Subjects/common/ScoreSystem.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/User/User.cs" Line="7" Column="44" />
+      <File FileName="Assets/Scripts/Subjects/common/UserSelected.cs" Line="40" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

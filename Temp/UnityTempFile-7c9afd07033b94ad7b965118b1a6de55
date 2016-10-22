@@ -136,6 +136,7 @@
 'Assets/GoogleVR/Scripts/Utilities/GvrFPS.cs'
 'Assets/GoogleVR/Scripts/Utilities/GvrIntent.cs'
 'Assets/Scripts/Subjects/common/ScoreSystem.cs'
+'Assets/Scripts/Subjects/common/UserSelected.cs'
 'Assets/Scripts/Subjects/english/english.cs'
 'Assets/Scripts/Subjects/geography/geography.cs'
 'Assets/Scripts/Subjects/mathematics/mathematics.cs'

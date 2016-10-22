@@ -91,6 +91,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
      <Compile Include="Assets\Scripts\Subjects\common\ScoreSystem.cs" />
+     <Compile Include="Assets\Scripts\Subjects\common\UserSelected.cs" />
      <Compile Include="Assets\Scripts\Subjects\english\english.cs" />
      <Compile Include="Assets\Scripts\Subjects\geography\geography.cs" />
      <Compile Include="Assets\Scripts\Subjects\mathematics\mathematics.cs" />

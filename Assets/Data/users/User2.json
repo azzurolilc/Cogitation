@@ -1,0 +1,13 @@
+{
+	"name": "User2",
+	"score": {
+			"mat": 2,
+			"geo": 2,
+			"eng": 2,
+		},
+	"level": {
+			"mat": 2,
+			"geo": 2,
+			"eng": 2,
+		}
+}
