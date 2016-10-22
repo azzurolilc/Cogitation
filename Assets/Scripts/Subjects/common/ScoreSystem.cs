@@ -3,13 +3,11 @@ using System.Collections;
 
 public class ScoreSystem : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-	
+	int level, score;
+
+	public ScoreSystem() {
+		this.level = 0;
+		this.score = 0;
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }

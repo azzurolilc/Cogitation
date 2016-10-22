@@ -139,5 +139,6 @@
 'Assets/Scripts/Subjects/english/english.cs'
 'Assets/Scripts/Subjects/geography/geography.cs'
 'Assets/Scripts/Subjects/mathematics/mathematics.cs'
+'Assets/Scripts/User/User.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'

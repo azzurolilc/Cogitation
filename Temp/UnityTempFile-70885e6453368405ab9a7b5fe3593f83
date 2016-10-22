@@ -15,10 +15,11 @@
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll'
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll'
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'
+-r:'Assets/Plugins/Google.ProtocolBuffers.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll'
+-r:'/Applications/Unity/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll'
 -r:'/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll'
 -r:'/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll'
--r:'Assets/Plugins/Google.ProtocolBuffers.dll'
 -r:'/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
 -r:'/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll'
 -define:UNITY_5_3_OR_NEWER
