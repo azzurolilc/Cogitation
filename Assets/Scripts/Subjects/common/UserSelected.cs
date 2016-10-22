@@ -21,7 +21,7 @@ public class UserSelected : MonoBehaviour {
 
 	void ChangeTarget() {
 		string username = EventSystem.current.currentSelectedGameObject.name;
-		targetText.text = "Nice to see you, " + username;
+		targetText.text = "Nice to see you again, " + username;
 
 		//StreamReader r = new StreamReader ("file.json");
 
