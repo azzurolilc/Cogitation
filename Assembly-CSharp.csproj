@@ -90,6 +90,8 @@
      <Compile Include="Assets\GoogleVR\Scripts\UI\IGvrGazeResponder.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
+     <Compile Include="Assets\Scripts\Subjects\common\AnswerButton.cs" />
+     <Compile Include="Assets\Scripts\Subjects\common\ButtonGroup.cs" />
      <Compile Include="Assets\Scripts\Subjects\common\ScoreSystem.cs" />
      <Compile Include="Assets\Scripts\Subjects\common\UserSelected.cs" />
      <Compile Include="Assets\Scripts\Subjects\english\english.cs" />
