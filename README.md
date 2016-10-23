@@ -1,13 +1,13 @@
 ####Cogitation
 ###DeltaSquad@2016FiskHacksII: Immersive VR Learning Game for Grade School Kids
 ======
-#####Project Intro
+####Project Intro
 Lorem Ipsum
 
-#####Cogitation Tech Stack
+####Cogitation Tech Stack
 Google Cardboard, C#, Unity...
 
-#####Delta Squad
+####Delta Squad
 
 [torrac@github](https://github.com/torrac)
 
