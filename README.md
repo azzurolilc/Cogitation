@@ -9,9 +9,9 @@ Google Cardboard, C#, Unity...
 
 ####Delta Squad
 
-[torrac@github](https://github.com/torrac)
+[torrac@:octocat:](https://github.com/torrac)
 
-[azzurolilc@github](https://github.com/azzurolilc)
+[azzurolilc@:octocat:](https://github.com/azzurolilc)
 
-[slaykase@github](https://github.com/slaykase)
+[slaykase@:octocat:](https://github.com/slaykase)
 
