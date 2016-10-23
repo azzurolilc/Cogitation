@@ -1,4 +1,4 @@
-####Cogitation
+####:rocket:Cogitation
 ###DeltaSquad@2016FiskHacksII: Immersive VR Learning Game for Grade School Kids
 ======
 ####Project Intro
