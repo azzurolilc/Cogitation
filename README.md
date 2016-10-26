@@ -5,7 +5,7 @@
 Lorem Ipsum
 
 ####Cogitation Tech Stack
-Google Cardboard, C#, Unity...
+Google Cardboard, Google VR SDK, C#, Unity...
 
 ####Delta Squad
 
